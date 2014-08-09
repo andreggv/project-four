@@ -6,4 +6,8 @@
 
 <p>Your account was created on: <?php echo $user->created_at ?></p>
 
-<p><a href="<?= URL::to('profile-edit') ?>">Edit your information</a></p>
+<nav>
+    <p><a href="<?= URL::to('profile-edit') ?>">Edit your information</a></p>
+    <p><a href="<?= URL::to('new-entry') ?>">Write a post to your journal</a></p>
+    <p><a href="<?= URL::to('searchentries') ?>">Search for an entry in your journal</a>
+</nav>    

@@ -1,0 +1,53 @@
+body{
+
+    background-image: url('login.gif'); 
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-size: 1100px 650px;
+    overflow: hidden;
+
+}
+
+
+
+.back{
+
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    margin: 200px 100px 100px 400px;
+    width: 400px;
+    height: 200px;
+    opacity: 0.8;
+    box-shadow: 10px 10px 5px #888888;
+    align-content: center;
+    font: 
+    
+    
+}
+
+input {
+
+    opacity: 0.8;
+    border: 1px solid #ccc;
+    
+    -moz-border-radius: 10px;
+
+    -webkit-border-radius: 10px;
+
+    border-radius: 10px;
+    
+    
+    
+}
+
+.menu{
+    
+       
+             
+    
+}
+
+
+
+
