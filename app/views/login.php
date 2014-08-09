@@ -17,5 +17,7 @@
         <?= Form::submit('Login') ?>
         <?= Form::close() ?>
     </div>
+    <p><a href="<?= URL::to('signup') ?>">Don't have an account? Sign up here</a></p>
 </div>
+     
 </body>    
